@@ -1,0 +1,2 @@
+server.port: 3063
+strategy.service: REST_TEMPLATE
